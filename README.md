@@ -1,2 +1,4 @@
 # RiverINF
-Trabalho final da disciplina de Algoritmos e Programação, cujo objetivo é aplicar todas as ferramentas de programação aprendidas em aula na criação de uma réplica do jogo River Raid, do Atari.
+Trabalho final da disciplina de Algoritmos e Programação, cujo objetivo é aplicar de forma prática e divertida os principais conteúdos abordados ao longo do semestre, por meio da criação de uma réplica do jogo River Raid, do Atari. O projeto está sendo desenvolvido na linguagem C, com o auxílio da biblioteca Raylib para a parte gráfica e de interação.
+
+Durante o desenvolvimento, são colocados em prática os conceitos de programação sequencial, condicional e iterativa, além do uso de arranjos, funções e funções tipadas, ponteiros, passagem por referência, estruturas, manipulação de arquivos binários e de texto, e acesso randômico a arquivos. Assim, o trabalho tem como principal finalidade reforçar o domínio desses tópicos por meio de uma aplicação criativa e envolvente, integrando todos os conhecimentos adquiridos ao longo da disciplina.
